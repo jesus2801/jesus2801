@@ -2,7 +2,7 @@
 
 😀 I am 18 years old 😇 and I am a full stack web developer, I consider myself a positive person and passionate 🤩 about programming, computing and robotics. I handle different technologies such as React, Node Js, MongoDB, Mysql, Typescript, Graphql, various template engines, Sass, among many other technologies and libraries 😁.
 
-I am a very positive person and adapted to change, willing to do everything possible to change the world and contribute to a better environment.
+I am a very positive person and adapted to change, willing to do everything possible to change the world and contribute to a better environment. I am currently studyng Systems and Computer Engineering at [Universidad del Norte](https://www.uninorte.edu.co/) of Colombia.
 
 Portfolio: https://portfolio-5227d.web.app/
 
