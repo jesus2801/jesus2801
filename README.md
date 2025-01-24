@@ -1,15 +1,10 @@
 ## Hi 👋, I am Jesús García.
 
-😀 I am 18 years old 😇 and I am a full stack web developer, I consider myself a positive person and passionate 🤩 about programming, computing and robotics. I handle different technologies such as React, Node Js, MongoDB, Mysql, Typescript, Graphql, various template engines, Sass, among many other technologies and libraries 😁.
+Hi, Jesús here 😎, I consider myself passionate about Linux and Open Source technologies. I am currently studying Systems Engineering at [Universidad del Norte](https://www.uninorte.edu.co/), deeply immersed in the continuous learning of my professional career and technologies for Backend architecture development, deployment and production (DevOps), as well as Linux server administration and Cloud technologies.
 
-I am a very positive person and adapted to change, willing to do everything possible to change the world and contribute to a better environment. I am currently studyng Systems and Computer Engineering at [Universidad del Norte](https://www.uninorte.edu.co/) of Colombia.
-
-Portfolio: https://portfolio-5227d.web.app/
-
-![](https://komarev.com/ghpvc/?username=jesus2801&color=green)
+LinkedIn [here](https://www.linkedin.com/in/jesus-garcia-vargas/)
 
 📈 My GitHub Stats
 
+![](https://komarev.com/ghpvc/?username=jesus2801&color=green)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jesus2801&show_icons=true&theme=gotham" alt="jesus2801" />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus2801&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
